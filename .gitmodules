@@ -1,0 +1,3 @@
+[submodule "github-actions-practice-sub"]
+	path = github-actions-practice-sub
+	url = git@github.com:jj1guj/github-actions-practice-sub.git
